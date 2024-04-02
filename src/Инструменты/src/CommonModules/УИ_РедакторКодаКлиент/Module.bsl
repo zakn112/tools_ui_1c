@@ -4191,10 +4191,9 @@
 		ДокументView.document.body.appendChild(Элемент);	
 	КонецЦикла;
 	
-	Для Каждого ТекСкрипт Из ДанныеБиблиотеки.Скрипты Цикл
-		Элемент = ДокументView.document.createElement("link");
-		Элемент.rel = "stylesheet";
-		Элемент.href = ТекСкрипт;
+	Для Каждого ТекСкрипт Из ДанныеБиблиотеки.Стили Цикл
+		Элемент = ДокументView.document.createElement("style");
+		Элемент.innerHTML = ТекСкрипт;
 		ДокументView.document.body.appendChild(Элемент);	
 	КонецЦикла;
 КонецПроцедуры	
