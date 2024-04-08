@@ -272,3 +272,4 @@
 * https://github.com/oscript-library/osparser - Парсер встроенного языка 1С с возможностью изменения
 * https://github.com/e8tools/tool1cd - Утилита для получения размеров таблиц файловой базы данных
 * https://github.com/LevkinSergey/ace-for-1c - Сборка редактора Ace с поддержкой работы в вебклиенте
+* https://github.com/LevkinSergey/ace-colaborator-1c - Плагин для редактора Ace, позволяющий совместно редактировать код редактора
