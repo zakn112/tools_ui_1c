@@ -82,6 +82,7 @@
   <commonPictures>CommonPicture.УИ_СгенерированныйКод</commonPictures>
   <commonPictures>CommonPicture.УИ_Папка</commonPictures>
   <commonPictures>CommonPicture.УИ_ОчиститьФормат</commonPictures>
+  <commonPictures>CommonPicture.УИ_Лого1СПредприятие24</commonPictures>
   <roles>Role.УИ_ПолныеПрава</roles>
   <commonTemplates>CommonTemplate.УИ_КомпонентаРаботыСРегулярнымиВыражениямиRegExБраузеры</commonTemplates>
   <commonTemplates>CommonTemplate.УИ_КомпонентаРаботыСРегулярнымиВыражениямиRegEx</commonTemplates>
@@ -202,4 +203,5 @@
   <dataProcessors>DataProcessor.УИ_УниверсальныйОбменДаннымиXML</dataProcessors>
   <dataProcessors>DataProcessor.УИ_ФайловыйМенеджер</dataProcessors>
   <dataProcessors>DataProcessor.УИ_РедакторПараметровСеанса</dataProcessors>
+  <dataProcessors>DataProcessor.УИ_Пользователи</dataProcessors>
 </mdclass:Configuration>

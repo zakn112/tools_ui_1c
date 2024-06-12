@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f04e9d82-2403-4e46-a946-c66e99b7a39b">
+  <producedTypes>
+    <objectType typeId="771308fe-1f4d-42c0-a469-02110a05b964" valueTypeId="e66a9364-35d7-49e5-983e-2869eafa2816"/>
+    <managerType typeId="e2836d04-7fd2-4021-ab5e-fcb105177e5f" valueTypeId="ffcfc4dc-36f8-4801-b74f-cfd8614a4314"/>
+  </producedTypes>
+  <name>УИ_Пользователи</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пользователи [УИ]</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.УИ_Пользователи.Form.Форма</defaultForm>
+  <forms uuid="f5c264c2-0fb8-4e05-96c8-494b7ccc5c20">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="5eae0125-c0b6-4133-b384-8682ed4b1841">
+    <name>ФормаЗапускаСеанса</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма запуска сеанса</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>
